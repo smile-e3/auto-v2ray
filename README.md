@@ -1,0 +1,2 @@
+# auto-v2ray
+Ubuntu环境下自动安装客户端v2ray和客户端界面工具v2raya
